@@ -1,4 +1,5 @@
 <?php
+namespace rusik\parser;
 
 interface ParserInterface{
 
